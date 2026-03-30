@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Reactjs,Expressjs,Nodejs,MongoDB,Html,Css,Javascript,Docker,AWS,CI/CD Tailwindcss**
 
-- 📫 How to reach me **nikhilw0969@gmail.com**
+- 📫 How to reach me **nikhilsw2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
