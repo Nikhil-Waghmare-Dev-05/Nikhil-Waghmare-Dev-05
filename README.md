@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker,CI/CD,AWS**
 
-- 👨‍💻 All of my projects are available at [https://nikhiil-portfolio.netlify.app/]((https://nikhilsportfoli.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://nikhiil-portfolio.netlify.app/](https://nikhilsportfoli.netlify.app/)
 
 - 💬 Ask me about **Reactjs,Expressjs,Nodejs,MongoDB,Html,Css,Javascript,Docker,AWS,CI/CD Tailwindcss**
 
