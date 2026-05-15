@@ -10,34 +10,81 @@
 
 </div>
 
-## 🚀 About Me
-<div>
-  const nikhil = {
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+```
+javascript
+const nikhil = {
     location: "India 🇮🇳",
     role: "MERN Stack Developer",
-    currentFocus: ["Docker", "CI/CD", "AWS"],
-    portfolio: "https://nikhilsportfoli.netlify.app/",
-    email: "nikhilsw2000@gmail.com",
     
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    currentFocus: [
+        "Docker",
+        "CI/CD",
+        "AWS"
+    ],
+
+    portfolio: "https://nikhilsportfolio.netlify.app/",
+    email: "nikhilsw2000@gmail.com",
+
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+    ],
+
     technologies: {
         frontEnd: {
-            frameworks: ["React", "Vue.js", "Redux"],
-            styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
+            frameworks: [
+                "React",
+                "Vue.js",
+                "Redux"
+            ],
+            styling: [
+                "Tailwind CSS",
+                "Bootstrap",
+                "CSS3"
+            ]
         },
+
         backEnd: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
-            databases: ["MongoDB", "Redis"]
+            databases: [
+                "MongoDB",
+                "Redis"
+            ]
         },
-        devOps: ["Docker", "AWS", "CI/CD", "Git"],
-        tools: ["Postman", "Photoshop", "Illustrator"]
+
+        devOps: [
+            "Docker",
+            "AWS",
+            "CI/CD",
+            "Git"
+        ],
+
+        tools: [
+            "Postman",
+            "Photoshop",
+            "Illustrator"
+        ]
     },
-    
-    askMeAbout: ["Web Development", "API Design", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+
+    askMeAbout: [
+        "Web Development",
+        "API Design",
+        "Cloud Architecture"
+    ],
+
+    funFact:
+        "I debug with console.log() and I'm not ashamed 😄"
 };
-</div>
+```
 
 ## 💻 Tech Stack
 
