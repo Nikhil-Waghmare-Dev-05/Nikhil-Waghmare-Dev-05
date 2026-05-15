@@ -10,82 +10,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-```
-javascript
-const nikhil = {
-    location: "India 🇮🇳",
-    role: "MERN Stack Developer",
-    
-    currentFocus: [
-        "Docker",
-        "CI/CD",
-        "AWS"
-    ],
-
-    portfolio: "https://nikhilsportfolio.netlify.app/",
-    email: "nikhilsw2000@gmail.com",
-
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
-    ],
-
-    technologies: {
-        frontEnd: {
-            frameworks: [
-                "React",
-                "Vue.js",
-                "Redux"
-            ],
-            styling: [
-                "Tailwind CSS",
-                "Bootstrap",
-                "CSS3"
-            ]
-        },
-
-        backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"],
-            databases: [
-                "MongoDB",
-                "Redis"
-            ]
-        },
-
-        devOps: [
-            "Docker",
-            "AWS",
-            "CI/CD",
-            "Git"
-        ],
-
-        tools: [
-            "Postman",
-            "Photoshop",
-            "Illustrator"
-        ]
-    },
-
-    askMeAbout: [
-        "Web Development",
-        "API Design",
-        "Cloud Architecture"
-    ],
-
-    funFact:
-        "I debug with console.log() and I'm not ashamed 😄"
-};
-```
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -121,19 +45,6 @@ const nikhil = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilwaghmare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilwaghmare&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilwaghmare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -141,19 +52,17 @@ const nikhil = {
 </div>
 
 ---
-
 ## 🔥 Current Focus
 
 <div align="center">
-graph LR
-    A[Learning Phase] --> B[Docker Mastery]
-    A --> C[CI/CD Pipelines]
-    A --> D[AWS Services]
-    B --> E[Production Ready]
-    C --> E
-    D --> E
-    E --> F[Deploy & Scale]
 
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CI%2FCD-Exploring-orange?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Journey-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Goal-Production%20Ready-success?style=for-the-badge" />
 
 </div>
 
