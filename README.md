@@ -10,39 +10,7 @@
 
 </div>
 
----
-
 ## 🚀 About Me
-
-```javascript
-const nikhil = {
-    location: "India 🇮🇳",
-    role: "MERN Stack Developer",
-    currentFocus: ["Docker", "CI/CD", "AWS"],
-    portfolio: "https://nikhilsportfoli.netlify.app/",
-    email: "nikhilsw2000@gmail.com",
-    
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Vue.js", "Redux"],
-            styling: ["Tailwind CSS", "Bootstrap", "CSS3"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"],
-            databases: ["MongoDB", "Redis"]
-        },
-        devOps: ["Docker", "AWS", "CI/CD", "Git"],
-        tools: ["Postman", "Photoshop", "Illustrator"]
-    },
-    
-    askMeAbout: ["Web Development", "API Design", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
----
 
 ## 💻 Tech Stack
 
@@ -103,8 +71,6 @@ const nikhil = {
 ## 🔥 Current Focus
 
 <div align="center">
-
-```mermaid
 graph LR
     A[Learning Phase] --> B[Docker Mastery]
     A --> C[CI/CD Pipelines]
@@ -113,7 +79,7 @@ graph LR
     C --> E
     D --> E
     E --> F[Deploy & Scale]
-```
+
 
 </div>
 
